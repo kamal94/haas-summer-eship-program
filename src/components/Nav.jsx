@@ -14,7 +14,7 @@ export default function Nav() {
       <a
         href="https://forms.gle/RgHKooGkKMjSFQDu7"
         target="_blank"
-        className="bg-white text-black pl-4 sm:pl-6 pr-2 py-2 rounded-full no-underline text-[0.75rem] sm:text-[0.85rem] font-semibold flex items-center gap-3 sm:gap-4"
+        className="backdrop-blur-xl bg-white text-black pl-4 sm:pl-6 pr-2 py-2 rounded-full no-underline text-[0.75rem] sm:text-[0.85rem] font-semibold flex items-center gap-3 sm:gap-4"
       >
         <span className="hidden sm:inline">Apply Cohort '24</span>
         <span className="sm:hidden">Apply</span>

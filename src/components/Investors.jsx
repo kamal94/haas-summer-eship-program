@@ -31,10 +31,10 @@ export default function Investors() {
             <p className="text-[0.95rem] sm:text-[1rem] text-[#888] leading-[1.5] mb-5 sm:mb-6">
               Founder spotlights, company updates, and early looks at teams building across AI, climate, health, and consumer sectors.
             </p>
-            <button className="group inline-flex items-center bg-white text-[#111111] pl-6 sm:pl-8 pr-2 py-[0.8rem] rounded-full text-[0.9rem] sm:text-[1rem] font-semibold gap-4 sm:gap-6 transition-all duration-200 hover:scale-[1.02] hover:bg-[#fce454] cursor-pointer border-none">
+            <a href="https://forms.gle/SAe1GuR8Vj2Pxtdc7" target="_blank" rel="noopener noreferrer" className="group inline-flex items-center bg-white text-[#111111] pl-6 sm:pl-8 pr-2 py-[0.8rem] rounded-full text-[0.9rem] sm:text-[1rem] font-semibold gap-4 sm:gap-6 transition-all duration-200 hover:scale-[1.02] hover:bg-[#fce454] cursor-pointer no-underline">
               Subscribe to Deal Flow
               <ArrowCircle />
-            </button>
+            </a>
           </div>
 
           <div className="border-l-2 border-[#333] pl-6 sm:pl-8">
@@ -42,10 +42,10 @@ export default function Investors() {
             <p className="text-[0.95rem] sm:text-[1rem] text-[#888] leading-[1.5] mb-5 sm:mb-6">
               Join our closing Demo Day. Cohort founders pitch live to a room of VCs and operators. Past events have surfaced companies that raised from top-tier firms.
             </p>
-            <button className="group inline-flex items-center bg-[#f96eb0] text-[#111111] pl-6 sm:pl-8 pr-2 py-[0.8rem] rounded-full text-[0.9rem] sm:text-[1rem] font-semibold gap-4 sm:gap-6 transition-all duration-200 hover:scale-[1.02] hover:bg-white cursor-pointer border-none">
+            <a href="https://forms.gle/SAe1GuR8Vj2Pxtdc7" target="_blank" rel="noopener noreferrer" className="group inline-flex items-center bg-[#f96eb0] text-[#111111] pl-6 sm:pl-8 pr-2 py-[0.8rem] rounded-full text-[0.9rem] sm:text-[1rem] font-semibold gap-4 sm:gap-6 transition-all duration-200 hover:scale-[1.02] hover:bg-white cursor-pointer no-underline">
               Request Demo Day Access
               <ArrowCircle />
-            </button>
+            </a>
           </div>
         </div>
       </div>
