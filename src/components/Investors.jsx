@@ -21,7 +21,7 @@ export default function Investors() {
             — before they hit the open market.
           </p>
           <p className="text-[1rem] sm:text-[1.2rem] leading-[1.6] text-[#a0a0a0] mb-8 sm:mb-12">
-            Backed by one of the world's top business and engineering institutions. Our cohort is meticulously selected from Haas MBA, MEng, and exceptional undergraduate talent. These are founders possessing profound technical depth, ruthless business rigor, and the backing of the Berkeley network.
+            Backed by one of the world's top business and engineering institutions. Our cohort is meticulously selected from Haas MBA, engineering, and exceptional undergraduate talent. These are founders possessing profound technical depth, ruthless business rigor, and the backing of the Berkeley network.
           </p>
         </div>
 

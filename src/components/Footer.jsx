@@ -5,7 +5,7 @@ export default function Footer() {
         /haas<span className="font-normal">ventures</span>
       </div>
       <div className="text-[0.8rem] text-[#888]">
-        © 2024 Haas Entrepreneurship Summer Program.
+        2026 Haas Entrepreneurship Summer Program.
       </div>
     </footer>
   );

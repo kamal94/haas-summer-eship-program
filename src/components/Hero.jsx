@@ -31,7 +31,7 @@ export default function Hero() {
       </div>
 
       <div className="absolute bottom-8 sm:bottom-16 left-4 right-4 sm:left-auto sm:right-16 sm:max-w-[400px] text-[1.2rem] sm:text-[1.8rem] leading-[1.2] font-medium tracking-[-0.03em]">
-        Connecting early-stage founders with the capital, mentorship, and networks required to build and scale.
+        Connecting early-stage founders with the capital, mentorship, and networks they need to build and scale.
       </div>
 
       <style>{`

@@ -21,7 +21,7 @@ const benefits = [
     number: '04 // CAPITAL',
     title: 'Funding Access',
     tag: 'Pitch',
-    desc: 'A high-stakes closing Demo Day where founders pitch live to a rigorously curated room of top-tier VCs, angels, and syndicate leads.',
+    desc: 'A closing Demo Day where founders pitch live to a rigorously curated room of top-tier VCs, angels, and industry experts.',
   },
 ];
 
